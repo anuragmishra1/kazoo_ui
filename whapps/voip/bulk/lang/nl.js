@@ -1,0 +1,23 @@
+window.translate['bulk'] = {
+	how_to_use_this_bulk_module:	'Hoe gebruik ik deze Bulk module:',
+	select_users_or_and_devices: "1) Kies gebruikers en/of apparaten uit de tabel.",
+	choose_what_fields: "2) Kies welke velden u wilt bewerken voor de geselecteerde apparaten/gebruikers.",
+	press_ok: "3) Klik op OK",
+	basic: "Normaal",
+	advanced: "Geavanceerd",
+	miscellaneous: "Overig",
+	music_on_hold: "Wachtmuziek",
+	timezone: "Tijdzone",
+	restrictions: "Restricties",
+	deny: "Weigeren",
+	inherit: "Inherit",
+	save: "Opslaan",
+	bulk_edit_label: "Bulk bewerken",
+	name_stitle: "Naam",
+	endpoint_type_stitle: "Apparaat Type",
+	bulk_id_stitle: "bulk_id",
+	default_music: "Standaard muziek",
+	silence: "Stilte",
+	an_error_occured_during: "Er is een fout opgetreden tijdens de bulk upate...",
+	the_endpoints_selected: "De geselecteerde apparaten/gebruikers zijn succesvol geüpdate!"
+};

@@ -1,0 +1,22 @@
+window.translate['report'] = $.extend(true, {}, window.translate['report'], {
+	generate_a_report_for: "Erstellen Sie einen Bericht für:",
+	children_sub_accounts_only: "Kinder Unterkonten nur",
+	this_account_and_his_direct: "Dieses Konto und seine direkten Unterkonten",
+	this_account_and_all_his_sub_accounts: "Dieses Konto und alle seine Unterkonten",
+	generate: "erzeugen",
+	total_number_of_softphones: "Gesamtzahl der Softphones:",
+	total_number_of_sip_devices: "Gesamtzahl der SIP-Geräte:",
+	total_number_of_dids: "Gesamtzahl der Durchwahlnummern:",
+	total_number_of_inbound_trunks: "Gesamtzahl der Inbound-Trunks:",
+	total_number_of_outbound_trunks: "Gesamtzahl der Outbound-Trunks:",
+	total_number_of_credits: "Gesamtzahl der Credits:",
+	report_label: "Bericht",
+	report_title: "Bericht",
+	account_stitle: "Konto",
+	sip_devices_stitle: "# SIP-Geräte",
+	softphones_stitle: "# Softphones",
+	dids_stitle: "# DIDs",
+	inbound_trunks_stitle: "# Inbound Trunks",
+	outbound_trunks_stitle: "# Outbound Trunks",
+	available_credits_stitle: "erhältlich Credits"
+});

@@ -1,0 +1,22 @@
+window.translate['credits'] = $.extend(true, {}, window.translate['credits'], {
+	per_minute_calling: "Per-Minute Berufung",
+	flat_rate_calling: "Pauschalpreis-Berufung",
+	pay_per_minute_allows_you: "Pay-per-Minute können Sie nur für das, was Sie zahlen. Zahlen Sie Geld auf Ihr Konto, um loszulegen, dann Pay-as-you-go für die Nutzung.",
+	your_current_balance: "Ihren aktuellen Kontostand:",
+	i_would_like_to_add: "Ich möchte hinzufügen",
+	to_my_current_balance: "to my current balance",
+	purchase: "Kauf",
+	flat_rate_calling_allows_you: "Pauschalpreis Berufung ermöglicht es Ihnen, eine monatliche, vorhersehbare Gebühr, die sich nie ändert, unabhängig von Ihrer Nutzung zahlen.",
+	flat_rate_outbound_calling: "Pauschalpreis ausgehende Anrufe",
+	allow_up_to: "Lassen Sie bis zu",
+	simultaneous_outbound_calls: "gleichzeitige ausgehende Anrufe auf die US-48 an",
+	month_per_line: "Monat pro Zeile",
+	flat_rate_inbound_calling: "Pauschalpreis-Inbound Calling",
+	simultaneous_inbound_calls_at: "gleichzeitige eingehende Anrufe an",
+	if_you_dont_want_flat_rate: "Wenn Sie nicht möchten, Pauschal, wird Ihr Konto standardmäßig auf Pay-per-Minute",
+	save: "sparen",
+	add_credit: "(Kredit hinzufügen)",
+	your_on_file_credit_card_will_immediately: "Ihr on-Datei Kreditkarte wird sofort für alle Änderungen, die Sie kostenfrei. Wenn Sie wiederkehrende Dienstleistungen geändert haben, werden neue Gebühren für Abrechnungszyklus anteilig. <br/> Sind Sie sicher, dass Sie fortfahren möchten?",
+	your_changes_have_been_saved: "Ihre Änderungen wurden gespeichert!",
+	manage_your_credits_and_limits: "Verwalten Sie Ihre Kredite und Grenzen."	
+});

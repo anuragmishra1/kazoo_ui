@@ -1,0 +1,23 @@
+window.translate['personal-info'] = $.extend(true, {}, window.translate['personal-info'], {
+	change_your_email: "Ändern Sie Ihre E-Mail-",
+	change_your_email_data_content: "Ändern Sie Ihre E-Mail-",
+	save: "sparen",
+	change_your_password: "Ändern Sie Ihr Passwort",
+	change_your_password_data_content: "",
+	confirm_your_password: "Bestätigen Sie Ihr Passwort",
+	confirm_your_password_data_content: "",
+	advanced_view: "Erweiterte Ansicht",
+	advanced_view_data_content: "Klicken Sie, wenn Sie die erweiterte Ansicht standardmäßig sehen wollen.",
+	primary_app: "Primäre App",
+	primary_app_data_content: "Wählen Sie die Anwendung, die Sie bei der Anmeldung angezeigt werden soll.",
+	none: "keiner",
+	close: "schließen",
+	email_placeholder: "Email",
+	my_account_label: "Ihr Konto",
+	email_address_updated: "E-Mail-Adresse aktualisiert!",
+	password_updated: "Kennwort aktualisiert!",
+	passwords_do_not_match: "Passwörter nicht übereinstimmen, wiederholen Sie bitte die Passwörter.",
+	my_account_title: "Ihr Konto",
+	is_now_your_primary_app: " ist jetzt Ihre primäre App",
+	you_dont_have_a_primary_app: "Sie müssen nicht eine primäre App mehr haben"
+});

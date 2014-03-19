@@ -1,0 +1,25 @@
+window.translate['groups'] = $.extend(true, {}, window.translate['groups'], {
+	create_group: "Gruppe erstellen",
+	edit_group: "Gruppe bearbeiten",
+	basic: "Grund-",
+	advanced: "fortgeschritten",
+	name: "Name",
+	name_data_content: "Anzeigename für diese Gruppe",
+	endpoints: "Endpunkte",
+	remove: "entfernen",
+	add_user: "Benutzer hinzufügen",
+	select: "wählen",
+	add_device: "Gerät hinzufügen",
+	delete: "löschen",
+	save: "sparen",
+	there_are_currently_no_endpoint: "Es liegen noch keine Endpunkt in dieser Gruppe",
+	groups_label: "Gruppen",
+	there_were_errors_on_the_form: "Es gab Fehler in dem Formular, bitte korrigieren!",
+	are_you_sure_you_want_to_delete: "Sind Sie sicher, dass Sie diese Gruppen löschen?",
+	no_name: "(kein Name)",
+	groups_label: "Verzeichnisse",
+	add_group_label: "Gruppe hinzufügen",
+	edit_groups: "Gruppen bearbeiten",
+	create_groups: "Gruppen erstellen"
+	
+});

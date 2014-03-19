@@ -1,0 +1,25 @@
+window.translate['groups'] = {
+	create_group: "Groep aanmaken",
+	edit_group: "Groep bewerken",
+	basic: "Normaal",
+	advanced: "Geavanceerd",
+	name: "Naam",
+	name_data_content: "Gebruiksvriendelijke naam voor deze groep",
+	endpoints: "Apparaten",
+	remove: "Verwijderen",
+	add_user: "Gebruiker toevoegen",
+	select: "Kies",
+	add_device: "Apparaat toevoegen",
+	delete: "Verwijder",
+	save: "Opslaan",
+	there_are_currently_no_endpoint: "Er zijn op dit moment geen apparaten in deze groep",
+	groups_label: "Groepen",
+	there_were_errors_on_the_form: "Er staan fouten in het formulier, graag corrigeren!",
+	are_you_sure_you_want_to_delete: "Weet u zeker dat u deze groep(en) wilt verwijderen?",
+	no_name: "(geen naam)",
+	groups_label: "Mappen",
+	add_group_label: "Groep toevoegen",
+	edit_groups: "Groepen bewerken",
+	create_groups: "Groepen aanmaken"
+	
+};

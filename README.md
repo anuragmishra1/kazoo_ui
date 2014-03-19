@@ -1,4 +1,4 @@
 kazoo_ui
 ========
 
-Added german language in kazoo UI
+Added German language in kazoo UI
